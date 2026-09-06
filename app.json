@@ -1,0 +1,28 @@
+{
+  "name": "Longy",
+  "storeName": {
+    "ios": "Longy: Sauna Cold Plunge Track",
+    "android": "Longy: Sauna Cold Plunge"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "wikidata": "Q141016074",
+    "github": "https://github.com/First-Point"
+  },
+  "wikidata": "Q141016791",
+  "platforms": ["ios", "android"],
+  "category": "Health & Fitness",
+  "price": "free",
+  "stores": {
+    "appStore": "https://apps.apple.com/app/id6759812269",
+    "googlePlay": "https://play.google.com/store/apps/details?id=app.longy.sauna.log.cold.plunge.ice.bath.tracker.longevity"
+  },
+  "website": "https://firstpoint.com.tr/apps/longy",
+  "privacyPolicy": "https://firstpoint.com.tr/longy/privacy-policy.html",
+  "terms": "https://firstpoint.com.tr/longy/terms-of-service.html",
+  "accessibility": "https://firstpoint.com.tr/apps/longy/accessibility",
+  "support": "https://form.jotform.com/261403502188047",
+  "updated": "2026-09-07"
+}
