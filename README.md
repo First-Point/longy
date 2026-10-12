@@ -21,7 +21,6 @@ Longy is a sauna and cold plunge tracking app for iOS and Android developed by F
 | Privacy policy | https://firstpoint.com.tr/longy/privacy-policy.html |
 | Terms | https://firstpoint.com.tr/longy/terms-of-service.html |
 | Accessibility | https://firstpoint.com.tr/apps/longy/accessibility |
-| Wikidata | https://www.wikidata.org/wiki/Q141016791 |
 
 ## What it does
 
@@ -71,7 +70,6 @@ More questions are answered at https://firstpoint.com.tr/apps/longy.
 - Company: https://firstpoint.com.tr and https://github.com/First-Point
 - App Store: https://apps.apple.com/app/id6759812269
 - Google Play: https://play.google.com/store/apps/details?id=app.longy.sauna.log.cold.plunge.ice.bath.tracker.longevity
-- Wikidata: https://www.wikidata.org/wiki/Q141016791
 - Machine-readable facts: [app.json](app.json)
 
 ## License
